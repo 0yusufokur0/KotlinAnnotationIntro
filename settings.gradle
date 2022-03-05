@@ -1,0 +1,5 @@
+rootProject.name = 'KotlinAnnotationIntro'
+include 'Example'
+
+include 'Example-Processor'
+
